@@ -1,0 +1,22 @@
+{
+  "name": "import-data-vue",
+  "version": "1.0.0",
+  "description": "Select module and import data from excel and list out the error",
+  "main": "main.js",
+  "scripts": {
+    "test": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vyas-ravin/import-data-vue.git"
+  },
+  "keywords": [
+    "import-data-vue"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vyas-ravin/import-data-vue/issues"
+  },
+  "homepage": "https://github.com/vyas-ravin/import-data-vue#readme"
+}
